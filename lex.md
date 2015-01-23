@@ -1,132 +1,3 @@
-Lexicon
-=======
-
-Bắt đầu từ [đây](procul.md).
-
-## Học máy
-
-- [ ] joint probability
-- [ ] marginal probability
-- [ ] conditional probability
-- [ ] model identifiability
-- [ ] specification
-- [ ] model choice
-- [ ] model selection
-- [ ] parameter identifiability
-- [ ] consistency
-- [ ] parametric model
-- [ ] nonparametric
-- [ ] exponential family
-- [ ] curved exponential family
-- [ ] graphical model
-- [ ] hierarchical model
-- [ ] mixture model
-- [ ] hidden markov model
-- [ ] copula model
-- [ ] hidden variables
-- [ ] nonparametric Bayesian model
-- [ ] density
-- [ ] intensity measure
-- [ ] analysis of variance
-- [ ] functional data
-- [ ] curve data
-- [ ] prior distribution
-- [ ] posterior distribution
-- [ ] a priori
-- [ ] a posteriori
-- [ ] sufficient statistics
-- [ ] order statistics
-- [ ] mean parameterization
-- [ ] canonical parameterization
-- [ ] normalizing constant
-- [ ] partition function
-- [ ] mean function
-- [ ] covariance function
-- [ ] covariates
-- [ ] features
-- [ ] conjugate prior
-- [ ] conjugacy
-- [ ] Bayesian learning
-- [ ] Bayesian inference
-- [ ] posterior inference
-- [ ] maximum likelihood
-- [ ] posterior consistency
-- [ ] asymptotic consistency
-- [ ] asymptotic normality
-- [ ] sensitivity analysis
-- [ ] stability analysis
-- [ ] heat map
-- [ ] efficiency
-- [ ] superefficiency
-- [ ] estimator
-- [ ] estimate
-- [ ] learning algorithm
-- [ ] learner
-- [ ] chaining method
-- [ ] symmetrization
-- [ ] covering number
-- [ ] free probability
-- [ ] ROC
-- [ ] hypothesis test
-- [ ] Bayes error
-- [ ] approximation error
-- [ ] estimation error
-- [ ] null hypothesis
-- [ ] alternative hypothesis
-- [ ] 1 error
-- [ ] 2 error
-- [ ] power
-- [ ] significance
-- [ ] value
-- [ ] Bayesfactor
-- [ ] nested design
-- [ ] empirical Bayes method
-- [ ] shrinkage
-- [ ] sequential analysis
-- [ ] sequential change point analysis
-- [ ] online analysis
-- [ ] distributed algorithm
-- [ ] maximization algorithm
-- [ ] variational inference
-- [ ] passing algorithm
-- [ ] belief propagation
-- [ ] back propagation
-- [ ] training
-- [ ] testing
-- [ ] classification
-- [ ] clustering
-- [ ] hierarchical clustering
-- [ ] linear regression
-- [ ] kernel method
-- [ ] sparsity
-- [ ] regularization
-- [ ] penalization
-- [ ] validation
-- [ ] out
-- [ ] boosting
-- [ ] bagging
-- [ ] bootstrap
-- [ ] compressed sensing
-- [ ] quantization
-- [ ] heteroscedasticity
-- [ ] modality
-- [ ] simulated annealing
-- [ ] local search
-- [ ] global search
-- [ ] heuristic search
-- [ ] restart
-- [ ] climbing
-- [ ] saddle point
-- [ ] sampling
-- [ ] importance sampling
-- [ ] proposal distribution
-- [ ] acceptance probability
-- [ ] heat bath method
-- [ ] particle filtering
-- [ ] filtering
-
-## Xác suất - Thống kê
-
 - [x] distribution function: hàm phân bố
 - [x] variance: phương sai
 - [x] functionals: phiếm hàm
@@ -142,7 +13,7 @@ Bắt đầu từ [đây](procul.md).
 - [x] efficiency: hiệu quả
 - [x] generalization: phổ quát
 - [x] nonparametric model: mô hình phi tham số
-- [x] sufficient statistics: thống kê đầy đủ
+- [x] sufficient statistics:  thống kê đầy đủ
 - [x] output: đầu ra
 - [x] exponential family: họ mũ
 - [x] probabilistic graphical model: Mô hình xác suất đồ thị 
@@ -154,7 +25,7 @@ Bắt đầu từ [đây](procul.md).
 - [x] Bayesian network: mạng Bayes
 - [x] Kalman filter: lọc Kalman
 - [x] neural network:  mạng nơ ron
-- [x] ensemble: hợp xướng
+- [x] ensemble:  hợp xướng
 - [x] logistic regression: hổi quy logit
 - [x] generative model: mô hình sinh mẫu
 - [x] discriminative model: mô hình phân biệt
@@ -166,6 +37,7 @@ Bắt đầu từ [đây](procul.md).
 - [x] model complexity:  tính phức tạp mô hình
 - [x] tradeoff : giằng co
 - [x] statistical inference: suy diễn thống kê
+- [x] một khái niệm của TK Tần:  ước lượng điểm
 - [x] classifier: hàm số phân lớp
 - [x] decision function:  hàm số quyết định
 - [x] minimum risk criterion: giá trị rủi ro tối thiểu
@@ -178,7 +50,7 @@ Bắt đầu từ [đây](procul.md).
 - [x] Bayesian learning:  học Bayes
 - [x] classifier: hàm phân loại
 - [x] neural network: mạng nơ ron
-- [x] consistency: tính nhất quán
+- [x] consistency:  tính nhất quán
 - [x] posterior consistency: nhất quán hậu nghiệm
 - [x] empirical process: quá trình thực nghiệm
 - [x] VC dimension: số chiều VC 
@@ -243,16 +115,22 @@ Bắt đầu từ [đây](procul.md).
 - [ ] Dirichlet process
 - [ ] Fourier transform
 - [ ] Levy measure
+- [ ] phân tách
+- [ ] một dạng quá trình Gauss
+- [ ] recipe làm bánh
+- [ ] sample path
 - [ ] atom
 - [ ] expectation
 - [ ] conditional expectation
 - [ ] boundary crossing time
 - [ ] Markov process
 - [ ] mixing time
+- [ ] phân bố dừng
 - [ ] stationary distribution
 - [ ] detailed balance
 - [ ] consistent
 - [ ] parameterization
+- [ ] cộng trừ nhân chia kiểu gì cũng được
 - [ ] mixture model
 - [ ] machine
 - [ ] convex analysis
@@ -264,27 +142,40 @@ Bắt đầu từ [đây](procul.md).
 - [ ] regression
 - [ ] covariates
 - [ ] baseline hazard intensity
+- [ ] độ đo
 - [ ] Bayes rule
 - [ ] prior knowledge
 - [ ] empirical data
 - [ ] computational convenience
+- [ ] như các quá trình stochastic
 - [ ] update
 - [ ] estimation
 - [ ] conditioning on data
 - [ ] risk
 - [ ] loss function
 - [ ] hypothesis testing
+- [ ] ảo tưởng
 - [ ] logistic loss
 - [ ] estimator
+- [ ] hoặc các mục chưa ghi
 - [ ] model selection
 - [ ] ERM
+- [ ] ước lượng M
+- [ ] nhất
+- [ ] ít nhất là với nhãn quan tần suất
 - [ ] consistency
+- [ ] và hình học
 - [ ] sufficient statistics
 - [ ] likelihood
+- [ ] tham số
+- [ ] cho dù số dữ liệu có lớn đến đâu và tiến dần đến vô hạn đi chăng nữa
 - [ ] shrinkage
 - [ ] a posteriori analysis
+- [ ] không ngẫu nhiên
+- [ ] vì phải tính tích phân rất phức tạp về mặt tính toán
 - [ ] uniform distribution
 - [ ] regularization
+- [ ] trong mô hình phi tham số
 - [ ] complexity of prior distribution
 - [ ] empirical Bayes
 - [ ] false positive
@@ -294,11 +185,21 @@ Bắt đầu từ [đây](procul.md).
 - [ ] sequential analysis
 - [ ] delay time
 - [ ] learning machine
+- [ ] mô hình
+- [ ] thay vì hàm phân loại
+- [ ] và không phải nhị phân
+- [ ] cấp
 - [ ] clustering
 - [ ] sample size
+- [ ] Các nhà Bayes chủ quan cuồng tín sẽ ngoảnh mặt quay gót khi ai nó nói đến khái niệm này
+- [ ] ở điều kiện mẫu vô hạn
+- [ ] định nghĩa trên quá trình thực nghiệm
+- [ ] Kolmogorov entropy chứ không phải Shannon entropy
+- [ ] trong mọi cách ước lượng
 - [ ] learning theory
 - [ ] information theory
 - [ ] model selection
 - [ ] experimental design
 - [ ] model selection
 - [ ] experiment design
+- [ ] về mặt thời gian và bộ nhớ
