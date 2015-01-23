@@ -14,6 +14,10 @@ library(shiny)
 runGitHub("statvn/lexicon")
 ```
 
+## Xem trực tuyến:
+
+https://manhtai.shinyapps.io/lexicon
+
 ## Tham khảo:
 
 - http://www.procul.org/blog/2010/11/09/lexicon-xac-su%E1%BA%A5t-th%E1%BB%91ng-ke-va-h%E1%BB%8Dc-may/
