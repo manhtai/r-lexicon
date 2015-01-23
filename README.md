@@ -1,6 +1,19 @@
-Lexicon
-=======
+Lexicon Học máy và Xác suất thống kê
+====================================
 
-Bắt đầu từ [đây](procul.md), tới [đây](http://manhtai.shinyapps.io/lexicon).
+Danh sách đang trong quá trình hoàn thiện.
 
-Nguồn tại [đây](shiny/lexicon.txt).
+## Danh sách từ:
+
+[lexicon.txt](lexicon.txt).
+
+## Xem trên R:
+
+```r
+library(shiny)
+runGitHub("statvn/lexicon")
+```
+
+## Tham khảo:
+
+- http://www.procul.org/blog/2010/11/09/lexicon-xac-su%E1%BA%A5t-th%E1%BB%91ng-ke-va-h%E1%BB%8Dc-may/
