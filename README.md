@@ -11,7 +11,7 @@ Danh sách đang trong quá trình hoàn thiện.
 
 ```r
 library(shiny)
-runGitHub("statvn/lexicon")
+runGitHub("hochanh/lexicon")
 ```
 
 ## Xem trực tuyến:

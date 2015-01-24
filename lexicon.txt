@@ -1,3 +1,4 @@
+outlier, ngoại lai
 over-fitting, khớp thái quá
 sample, đơn vị mẫu
 data point, đơn vị mẫu
@@ -22,6 +23,9 @@ nominal data, dữ liệu rời rạc
 model building, xây dựng mô hình
 model training, huấn luyện mô hình (xây dựng mô hình)
 parameter estimation, ước lượng tham số (xây dựng mô hình)
+centering, canh giữa (trừ tất cả các biến cho số trung bình)
+scaling, đổi thang (chia tất cả các biến cho độ lệch chuẩn)
+skewness, hệ số bất đối xứng (độ lệch)
 
 confidence interval (CI), khoảng tin cậy
 Akaike Information criterion (AIC), tiêu chuẩn thông tin Akaike 

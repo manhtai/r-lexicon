@@ -1,5 +1,5 @@
 library(shiny)
 shinyUI(navbarPage(
 	title = 'Lexicon',
-	tabPanel('Nhấp vào tiêu đề để sắp xếp', dataTableOutput('mytable'))
+	tabPanel("http://github.com/hochanh/lexicon",dataTableOutput('mytable'))
 ))
