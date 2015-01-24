@@ -1,3 +1,105 @@
+over-fitting, khớp thái quá
+sample, đơn vị mẫu
+data point, đơn vị mẫu
+instance, đơn vị mẫu
+observation, đơn vị mẫu
+training set, tập huấn luyện
+test set, tập kiểm tra
+validation set, tập kiểm tra
+predictor, biến độc lập
+independent variable, biến độc lập
+attribute, biến độc lập
+descriptor, biến độc lập
+outcome, biến phụ thuộc
+dependent variable, biến phụ thuộc
+target, biến phụ thuộc
+response, biến phụ thuộc
+continuous data, dữ liệu liên tục
+categorical data, dữ liệu rời rạc
+attribute data, dữ liệu rời rạc
+discrete data, dữ liệu rời rạc
+nominal data, dữ liệu rời rạc
+model building, xây dựng mô hình
+model training, huấn luyện mô hình (xây dựng mô hình)
+parameter estimation, ước lượng tham số (xây dựng mô hình)
+
+confidence interval (CI), khoảng tin cậy
+Akaike Information criterion (AIC), tiêu chuẩn thông tin Akaike 
+analysis of covariance (ANCOVA), phân tích hiệp biến 
+analysis of variance (ANOVA), phân tích phương sai
+bar chart, biểu đồ thanh
+binomial distribution, phân phối nhị phân
+box plot, biểu đồ hình hộp
+categorical variable, biến thứ bậc
+clock chart, biểu đồ đồng hồ
+coefficient of correlation, hệ số tương quan
+coefficient of determination, hệ số xác định bội
+coefficient of heterogeneity, hệ số bất đồng nhất
+combination, tổ hợp
+continuous variable, biến liên tục
+correlation, tương quan
+covariance, hợp biến
+cross-over experiment, thí nghiệm giao chéo 
+cumulative probability distribution, hàm phân phối tích lũy 
+degree of freedom, bậc tự do
+determinant, định thức
+discrete variable, biến rời rạc
+dot chart, biểu đồ điểm
+estimate, ước số
+estimator, hàm ước lượng thống kê
+factorial analysis of variance, phân tích phương sai cho thí nghiệm giai thừa 
+fixed effects, ảnh hưởng bất biến
+frequency, tần số
+function, hàm
+heterogeneity, bất đồng nhất
+histogram, biểu đồ tần số
+homogeneity, đồng nhất
+hypothesis test, kiểm định giả thiết
+inverse matrix, ma trận nghịch đảo
+latin square experiment, thí nghiệm hình vuông Latin
+least squares method, phương pháp bình phương nhỏ nhất 
+linear logistic regression analysis, phân tích hồi qui tuyến tính logit
+linear regression analysis, phân tích hồi qui tuyến tính
+matrix, ma trận
+maximum likelihood method, phương pháp hợp lí cực đại 
+mean, số trung bình
+median, số trung vị
+meta-analysis, phân tích tổng hợp
+missing value, giá trị không
+model, mô hình
+multiple linear regression analysis, phân tích hồi qui tuyến tính đa biến 
+normal distribution, phân phối chuẩn
+object, đối tượng
+parameter, thông số
+permutation, hoán vị
+pie chart, biểu đồ hình tròn
+poisson distribution, phân phối Poisson
+polynomial regression, hồi qui đa thức
+probability, xác suất
+probability density distribution, hàm mật độ xác suất 
+p-value, trị số P
+quantile, hàm định bậc
+random effects, ảnh hưởng ngẫu nhiên
+random variable, biến ngẫu nhiên
+relative risk, tỉ số nguy cơ tương đối
+repeated measure experiment, thí nghiệm tái đo lường
+residual, phần dư
+residual mean square, trung bình bình phương phần dư
+residual sum of squares, tổng bình phương phần dư
+scalar matrix, ma trận vô hướng
+scatter plot, biểu đồ tán xạ
+significance, có ý nghĩa thống kê
+simulation, mô phỏng
+standard deviation, độ lệch chuẩn
+standard error, sai số chuẩn
+standardized normal distribution, phân phối chuẩn chuẩn hóa 
+survival analysis, phân tích biến cố
+traposed matrix, ma trận chuyển vị
+variable, biến (biến số)
+variance, phương sai
+weight, trọng số
+weighted mean, trung bình trọng số
+
 acceptance probability,
 almost sure, gần chắc
 alternative hypothesis,
