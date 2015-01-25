@@ -2,6 +2,10 @@ Danh sách đang trong quá trình hoàn thiện.
 
 - Danh sách từ: [lexicon.txt](https://github.com/hochanh/lexicon/blob/master/lexicon.txt)
 
+- Xem trên web:
+
+https://manhtai.shinyapps.io/lexicon/
+
 - Xem trên R:
 
 ```r
