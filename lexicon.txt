@@ -1,3 +1,23 @@
+tradeoff, đánh đổi
+bias-variance tradeoff, đánh đổi giữa độ chệch và độ bất định
+replacement, có hoàn lại
+bootstrap, sinh mẫu tự mồi (một phương pháp tái sinh mẫu)
+variance, độ bất định (chênh lệch giữa kết quả áp dụng mô hình với các mẫu đầu vào khác nhau, thường bằng các phương pháp tái sinh mẫu)
+uncertainty, tính bất định
+noise, sự bất định
+bias, độ chệch (giữa kết quả dự báo của mô hình và thực tế)
+unbiased, không chệch
+cross-validation, xác nhận chéo
+k-fold cross-validation, xác nhận chéo k phần
+generalized cross-validation, xác nhận chéo tổng quát
+resample, tái sinh mẫu
+dummy variable, biến số giả (biến phụ)
+censored data, dữ liệu bị che
+supervised, có giám sát
+supervised learning, học có giám sát
+unsupervised, không giám sát
+unsupervised learning, học không giám sát
+principal component analysis (PCA), phân tích thành phần cơ bản
 outlier, ngoại lai
 over-fitting, khớp thái quá
 sample, đơn vị mẫu
@@ -5,8 +25,8 @@ data point, đơn vị mẫu
 instance, đơn vị mẫu
 observation, đơn vị mẫu
 training set, tập huấn luyện
-test set, tập kiểm tra
-validation set, tập kiểm tra
+test set, tập kiểm thử
+validation set, tập kiểm thử
 predictor, biến độc lập
 independent variable, biến độc lập
 attribute, biến độc lập
@@ -69,7 +89,7 @@ maximum likelihood method, phương pháp hợp lí cực đại
 mean, số trung bình
 median, số trung vị
 meta-analysis, phân tích tổng hợp
-missing value, giá trị không
+missing value, giá trị thiếu
 model, mô hình
 multiple linear regression analysis, phân tích hồi qui tuyến tính đa biến 
 normal distribution, phân phối chuẩn
@@ -129,7 +149,6 @@ Bayesian nonparametric model, mô hình phi tham số Bayes
 Bayes rule,
 belief propagation,
 boosting,
-bootstrap,
 boundary crossing time,
 canonical parameterization,
 Central limit theorem, giới hạn trung tâm
@@ -197,7 +216,8 @@ experiment design,
 exponential family, họ mũ
 exponential loss, Hàm thiệt mũ
 false positive,
-features,
+features, các đặc tính
+feature extraction, chọn lọc đặc tính
 filtering,
 Fourier transform,
 free probability,
@@ -345,16 +365,10 @@ subjective belief, niềm tin chủ quan
 sufficient statistics,  thống kê đầy đủ
 superefficiency,
 symmetrization,
-test,
-testing,
-tradeoff , giằng co
-training,
-training data, dữ liệu huấn luyện
 transition probability kernel, hạch xác suất chuyển dịch
 undirected graphical model, mô hình đồ thị vô hướng
 uniform distribution,
 validation,
 value,
-variance, phương sai
 variational inference,
-VC dimension, số chiều VC 
+VC dimension, số chiều VC
