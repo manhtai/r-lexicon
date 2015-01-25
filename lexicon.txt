@@ -1,374 +1,374 @@
-tradeoff, đánh đổi
-bias-variance tradeoff, đánh đổi giữa độ chệch và độ bất định
-replacement, có hoàn lại
-bootstrap, sinh mẫu tự mồi (một phương pháp tái sinh mẫu)
-variance, độ bất định (chênh lệch giữa kết quả áp dụng mô hình với các mẫu đầu vào khác nhau, thường bằng các phương pháp tái sinh mẫu)
-uncertainty, tính bất định
-noise, sự bất định
-bias, độ chệch (giữa kết quả dự báo của mô hình và thực tế)
-unbiased, không chệch
-cross-validation, xác nhận chéo
-k-fold cross-validation, xác nhận chéo k phần
-generalized cross-validation, xác nhận chéo tổng quát
-resample, tái sinh mẫu
-dummy variable, biến số giả (biến phụ)
-censored data, dữ liệu bị che
-supervised, có giám sát
-supervised learning, học có giám sát
-unsupervised, không giám sát
-unsupervised learning, học không giám sát
-principal component analysis (PCA), phân tích thành phần cơ bản
-outlier, ngoại lai
-over-fitting, khớp thái quá
-sample, đơn vị mẫu
-data point, đơn vị mẫu
-instance, đơn vị mẫu
-observation, đơn vị mẫu
-training set, tập huấn luyện
-test set, tập kiểm thử
-validation set, tập kiểm thử
-predictor, biến độc lập
-independent variable, biến độc lập
-attribute, biến độc lập
-descriptor, biến độc lập
-outcome, biến phụ thuộc
-dependent variable, biến phụ thuộc
-target, biến phụ thuộc
-response, biến phụ thuộc
-continuous data, dữ liệu liên tục
-categorical data, dữ liệu rời rạc
-attribute data, dữ liệu rời rạc
-discrete data, dữ liệu rời rạc
-nominal data, dữ liệu rời rạc
-model building, xây dựng mô hình
-model training, huấn luyện mô hình (xây dựng mô hình)
-parameter estimation, ước lượng tham số (xây dựng mô hình)
-centering, canh giữa (trừ tất cả các biến cho số trung bình)
-scaling, đổi thang (chia tất cả các biến cho độ lệch chuẩn)
-skewness, hệ số bất đối xứng (độ lệch)
+tradeoff; đánh đổi
+bias-variance tradeoff; đánh đổi giữa độ chệch và độ bất định
+replacement; có hoàn lại
+bootstrap; sinh mẫu tự mồi (một phương pháp tái sinh mẫu)
+variance; độ bất định (chênh lệch giữa kết quả áp dụng mô hình với các mẫu đầu vào khác nhau, thường bằng các phương pháp tái sinh mẫu)
+uncertainty; tính bất định
+noise; sự bất định
+bias; độ chệch (giữa kết quả dự báo của mô hình và thực tế)
+unbiased; không chệch
+cross-validation; xác nhận chéo
+k-fold cross-validation; xác nhận chéo k phần
+generalized cross-validation; xác nhận chéo tổng quát
+resample; tái sinh mẫu
+dummy variable; biến số giả (biến phụ)
+censored data; dữ liệu bị che
+supervised; có giám sát
+supervised learning; học có giám sát
+unsupervised; không giám sát
+unsupervised learning; học không giám sát
+principal component analysis (PCA); phân tích thành phần cơ bản
+outlier; ngoại lai
+over-fitting; khớp thái quá
+sample; đơn vị mẫu
+data point; đơn vị mẫu
+instance; đơn vị mẫu
+observation; đơn vị mẫu
+training set; tập huấn luyện
+test set; tập kiểm thử
+validation set; tập kiểm thử
+predictor; biến độc lập
+independent variable; biến độc lập
+attribute; biến độc lập
+descriptor; biến độc lập
+outcome; biến phụ thuộc
+dependent variable; biến phụ thuộc
+target; biến phụ thuộc
+response; biến phụ thuộc
+continuous data; dữ liệu liên tục
+categorical data; dữ liệu rời rạc
+attribute data; dữ liệu rời rạc
+discrete data; dữ liệu rời rạc
+nominal data; dữ liệu rời rạc
+model building; xây dựng mô hình
+model training; huấn luyện mô hình (xây dựng mô hình)
+parameter estimation; ước lượng tham số (xây dựng mô hình)
+centering; canh giữa (trừ tất cả các biến cho số trung bình)
+scaling; đổi thang (chia tất cả các biến cho độ lệch chuẩn)
+skewness; hệ số bất đối xứng (độ lệch)
 
-confidence interval (CI), khoảng tin cậy
-Akaike Information criterion (AIC), tiêu chuẩn thông tin Akaike 
-analysis of covariance (ANCOVA), phân tích hiệp biến 
-analysis of variance (ANOVA), phân tích phương sai
-bar chart, biểu đồ thanh
-binomial distribution, phân phối nhị phân
-box plot, biểu đồ hình hộp
-categorical variable, biến thứ bậc
-clock chart, biểu đồ đồng hồ
-coefficient of correlation, hệ số tương quan
-coefficient of determination, hệ số xác định bội
-coefficient of heterogeneity, hệ số bất đồng nhất
-combination, tổ hợp
-continuous variable, biến liên tục
-correlation, tương quan
-covariance, hợp biến
-cross-over experiment, thí nghiệm giao chéo 
-cumulative probability distribution, hàm phân phối tích lũy 
-degree of freedom, bậc tự do
-determinant, định thức
-discrete variable, biến rời rạc
-dot chart, biểu đồ điểm
-estimate, ước số
-estimator, hàm ước lượng thống kê
-factorial analysis of variance, phân tích phương sai cho thí nghiệm giai thừa 
-fixed effects, ảnh hưởng bất biến
-frequency, tần số
-function, hàm
-heterogeneity, bất đồng nhất
-histogram, biểu đồ tần số
-homogeneity, đồng nhất
-hypothesis test, kiểm định giả thiết
-inverse matrix, ma trận nghịch đảo
-latin square experiment, thí nghiệm hình vuông Latin
-least squares method, phương pháp bình phương nhỏ nhất 
-linear logistic regression analysis, phân tích hồi qui tuyến tính logit
-linear regression analysis, phân tích hồi qui tuyến tính
-matrix, ma trận
-maximum likelihood method, phương pháp hợp lí cực đại 
-mean, số trung bình
-median, số trung vị
-meta-analysis, phân tích tổng hợp
-missing value, giá trị thiếu
-model, mô hình
-multiple linear regression analysis, phân tích hồi qui tuyến tính đa biến 
-normal distribution, phân phối chuẩn
-object, đối tượng
-parameter, thông số
-permutation, hoán vị
-pie chart, biểu đồ hình tròn
-poisson distribution, phân phối Poisson
-polynomial regression, hồi qui đa thức
-probability, xác suất
-probability density distribution, hàm mật độ xác suất 
-p-value, trị số P
-quantile, hàm định bậc
-random effects, ảnh hưởng ngẫu nhiên
-random variable, biến ngẫu nhiên
-relative risk, tỉ số nguy cơ tương đối
-repeated measure experiment, thí nghiệm tái đo lường
-residual, phần dư
-residual mean square, trung bình bình phương phần dư
-residual sum of squares, tổng bình phương phần dư
-scalar matrix, ma trận vô hướng
-scatter plot, biểu đồ tán xạ
-significance, có ý nghĩa thống kê
-simulation, mô phỏng
-standard deviation, độ lệch chuẩn
-standard error, sai số chuẩn
-standardized normal distribution, phân phối chuẩn chuẩn hóa 
-survival analysis, phân tích biến cố
-traposed matrix, ma trận chuyển vị
-variable, biến (biến số)
-variance, phương sai
-weight, trọng số
-weighted mean, trung bình trọng số
+confidence interval (CI); khoảng tin cậy
+Akaike Information criterion (AIC); tiêu chuẩn thông tin Akaike 
+analysis of covariance (ANCOVA); phân tích hiệp biến 
+analysis of variance (ANOVA); phân tích phương sai
+bar chart; biểu đồ thanh
+binomial distribution; phân phối nhị phân
+box plot; biểu đồ hình hộp
+categorical variable; biến thứ bậc
+clock chart; biểu đồ đồng hồ
+coefficient of correlation; hệ số tương quan
+coefficient of determination; hệ số xác định bội
+coefficient of heterogeneity; hệ số bất đồng nhất
+combination; tổ hợp
+continuous variable; biến liên tục
+correlation; tương quan
+covariance; hợp biến
+cross-over experiment; thí nghiệm giao chéo 
+cumulative probability distribution; hàm phân phối tích lũy 
+degree of freedom; bậc tự do
+determinant; định thức
+discrete variable; biến rời rạc
+dot chart; biểu đồ điểm
+estimate; ước số
+estimator; hàm ước lượng thống kê
+factorial analysis of variance; phân tích phương sai cho thí nghiệm giai thừa 
+fixed effects; ảnh hưởng bất biến
+frequency; tần số
+function; hàm
+heterogeneity; bất đồng nhất
+histogram; biểu đồ tần số
+homogeneity; đồng nhất
+hypothesis test; kiểm định giả thiết
+inverse matrix; ma trận nghịch đảo
+latin square experiment; thí nghiệm hình vuông Latin
+least squares method; phương pháp bình phương nhỏ nhất 
+linear logistic regression analysis; phân tích hồi qui tuyến tính logit
+linear regression analysis; phân tích hồi qui tuyến tính
+matrix; ma trận
+maximum likelihood method; phương pháp hợp lí cực đại 
+mean; số trung bình
+median; số trung vị
+meta-analysis; phân tích tổng hợp
+missing value; giá trị thiếu
+model; mô hình
+multiple linear regression analysis; phân tích hồi qui tuyến tính đa biến 
+normal distribution; phân phối chuẩn
+object; đối tượng
+parameter; thông số
+permutation; hoán vị
+pie chart; biểu đồ hình tròn
+poisson distribution; phân phối Poisson
+polynomial regression; hồi qui đa thức
+probability; xác suất
+probability density distribution; hàm mật độ xác suất 
+p-value; trị số P
+quantile; hàm định bậc
+random effects; ảnh hưởng ngẫu nhiên
+random variable; biến ngẫu nhiên
+relative risk; tỉ số nguy cơ tương đối
+repeated measure experiment; thí nghiệm tái đo lường
+residual; phần dư
+residual mean square; trung bình bình phương phần dư
+residual sum of squares; tổng bình phương phần dư
+scalar matrix; ma trận vô hướng
+scatter plot; biểu đồ tán xạ
+significance; có ý nghĩa thống kê
+simulation; mô phỏng
+standard deviation; độ lệch chuẩn
+standard error; sai số chuẩn
+standardized normal distribution; phân phối chuẩn chuẩn hóa 
+survival analysis; phân tích biến cố
+traposed matrix; ma trận chuyển vị
+variable; biến (biến số)
+variance; phương sai
+weight; trọng số
+weighted mean; trung bình trọng số
 
-acceptance probability,
-almost sure, gần chắc
-alternative hypothesis,
-analysis of variance,
-a posteriori,
-a posteriori analysis,
-approximation error, sai số xấp xỉ 
-approximation theory, lý thuyết xấp xỉ
-a priori,
-asymptotic consistency,
-asymptotic normality,
-asymptotic statistics,
-atom,
-back propagation,
-bagging,
-baseline hazard intensity,
-Bayes error, Lỗi Bayes 
-Bayesfactor,
-Bayesian inference, suy diễn Bayes
-Bayesian learning,  học Bayes
-Bayesian network, mạng Bayes
-Bayesian nonparametric model, mô hình phi tham số Bayes
-Bayes rule,
-belief propagation,
-boosting,
-boundary crossing time,
-canonical parameterization,
-Central limit theorem, giới hạn trung tâm
-chaining method,
-characteristic function, hàm tính cách
-Chinese restaurant process, nhà hàng Tàu
-classification,
-classifier, hàm phân loại
-climbing,
-clustering,
-combinatorial object, vật thể tổ hợp 
-completely random measures, độ đo hoàn toàn độc lập
-complexity of prior distribution,
-compound, phức hợp
-compressed sensing,
-computational convenience,
-concentration of measure,  tập trung của độ đo
-conditional expectation,
-conditional independence, độc lập có điều kiện
-conditional probability,
-conditioning on data,
-conjugacy,
-conjugate duality,  đối ngẫu liên hợp
-conjugate prior,
-consistency, tính nhất quán
-consistent,
-convergence,
-convex analysis,
-copula model,
-covariance function,
-covariates,
-covering number,
-Cox regression model, mô hình hồi quy Cox
-curve data,
-curved exponential family,
-data, dữ liệu
-decision function,  hàm số quyết định
-decision tree, cây quyết định
-deep belief net,
-delay time,
-density, hàm mật độ
-detailed balance,
-định nghĩa trên quá trình thực nghiệm,
-directed graphical model, mô hình đồ thị có hướng
-Dirichlet process,
-discriminative model, mô hình phân biệt
-distributed algorithm,
-distribution free, mô hình tự do
-distribution function, hàm phân bố
-efficiency, hiệu quả
-empirical Bayes,
-empirical data,
-empirical process, quá trình thực nghiệm 
-empirical risk, rủi ro thực nghiệm
-ensemble, hợp xướng
-ERM,
-estimate, ước lượng
-estimation,
-estimation error, sai số ước lượng
-estimator,
-exchangeability, tính hoán chuyển được
-expectation,
-experimental design,
-experiment design,
-exponential family, họ mũ
-exponential loss, Hàm thiệt mũ
-false positive,
-features, các đặc tính
-feature extraction, chọn lọc đặc tính
-filtering,
-Fourier transform,
-free probability,
-frequentist expectation, Kỳ vọng tần suất
-frequentist, suy diễn tần số
-functional data,
-functionals, phiếm hàm
-Gaussian processes,
-generalization, phổ quát
-generalized linear model, tuyến tính tổng quát
-generative model, mô hình sinh mẫu
-global search,
-graphical model,
-graphical model, mô hình xác suất đồ thị 
-heat bath method,
-heat map,
-heteroscedasticity,
-heuristic search,
-hidden Markov, Markov ẩn
-hidden markov model,
-hidden variables,
-hierarchical clustering,
-hierarchical model,
-hitting time, thời điểm chạm
-hypothesis test,
-hypothesis testing,
-importance sampling,
-independence, độc lập
-independent increment, gia tăng độc lập
-Indian buffet process, quá trình búp phê Ấn độ 
-infinitely divisible, khả phân vô hạn
-information geometry, hình học thông tin
-information theory,
-intensity measure,
-ít nhất là với nhãn quan tần suất,
-Kalman filter, lọc Kalman
-Kalman smoothing, mài trơn Kalman
-kernel method,
-learner,
-learn, học
-learning algorithm,
-learning machine,
-learning theory,
-least square, bình phương cực tiểu
-Levy measure,
-likelihood,
-likelihood principle, Nguyên tắc khả năng
-linear regression,
-local search,
-logistic loss,
-logistic regression, hổi quy logit
-loss function,
-machine,
-marginal probability,
-Markov process,
-Markov random fields,
-maximization algorithm,
-maximum likelihood,
-mean,
-mean function,
-mean parameterization, tham số hóa trung bình
-measurable functions,
-measure theory,
-minimum risk criterion, giá trị rủi ro tối thiểu
-mixing time,
-mixture model,
-modality,
-model choice,
-model complexity,  tính phức tạp mô hình
-model identifiability,
-model selection,
-mode, mốt
-nested design,
-neural network, mạng nơ ron
-nonparametric,
-nonparametric Bayesian model,
-nonparametric model, mô hình phi tham số
-normalizing constant,
-null hypothesis,
-online analysis,
-order statistics,
-orthornomal transformation, biến đổi trực chuẩn
-output, đầu ra
-parameter estimation, ước lượng về tham số
-parameter identifiability,
-parameterization,
-parameter, tham số
-parametric model, mô hình tham số
-partial exchangeability, hoán chuyển từng phần
-particle filtering,
-partition function,
-passing algorithm,
-penalization,
-polytree,
-posterior consistency, nhất quán hậu nghiệm
-posterior consistency, Tính nhất quán hậu nghiệm
-posterior distribution,
-posterior inference,  suy diễn hậu nghiệm
-power,
-prediction, dự báo
-prior distribution,
-prior knowledge, tiên nghiệm
-probabilistic graphical model, Mô hình xác suất đồ thị 
-probabilistic inference, suy diễn xác suất
-probablist,
-proposal distribution,
-quantization,
-random measures, độ đo ngẫu nhiên
-randomness, ngẫu nhiên
-random variables,
-random walk, đi bộ ngẫu nhiên
-regression,
-regression analysis, Bài toán hồi quy
-regularization,
-reproducing kernel Hilbert space, nhân tự sinh
-restart,
-risk,
-ROC,
-saddle point,
-sample path,
-sample size,
-sampling,
-semiparametric model, mô hình bán tham số
-sensitivity analysis,
-sequential analysis,
-sequential change point analysis,
-sequential data,
-shrinkage,
-significance,
-simulated annealing,
-Sobolev class, lớp Sobolev
-sparsity,
-specification,
-square loss, Hàm thiệt bình phương
-stability analysis,
-stable distribution, phân bố ổn định
-stationary distribution,
-statistical inference, suy diễn thống kê
-statistical model, Mô hình thống kê
-stochastic processes, quá trình ngẫu nhiên
-stopping time, thời điểm dừng
-strong law,
-subjective Bayes, Bayes chủ quan
-subjective belief, niềm tin chủ quan 
-sufficient statistics,  thống kê đầy đủ
-superefficiency,
-symmetrization,
-transition probability kernel, hạch xác suất chuyển dịch
-undirected graphical model, mô hình đồ thị vô hướng
-uniform distribution,
-validation,
-value,
-variational inference,
-VC dimension, số chiều VC
+acceptance probability;
+almost sure; gần chắc
+alternative hypothesis;
+analysis of variance;
+a posteriori;
+a posteriori analysis;
+approximation error; sai số xấp xỉ 
+approximation theory; lý thuyết xấp xỉ
+a priori;
+asymptotic consistency;
+asymptotic normality;
+asymptotic statistics;
+atom;
+back propagation;
+bagging;
+baseline hazard intensity;
+Bayes error; Lỗi Bayes 
+Bayesfactor;
+Bayesian inference; suy diễn Bayes
+Bayesian learning;  học Bayes
+Bayesian network; mạng Bayes
+Bayesian nonparametric model; mô hình phi tham số Bayes
+Bayes rule;
+belief propagation;
+boosting;
+boundary crossing time;
+canonical parameterization;
+Central limit theorem; giới hạn trung tâm
+chaining method;
+characteristic function; hàm tính cách
+Chinese restaurant process; nhà hàng Tàu
+classification;
+classifier; hàm phân loại
+climbing;
+clustering;
+combinatorial object; vật thể tổ hợp 
+completely random measures; độ đo hoàn toàn độc lập
+complexity of prior distribution;
+compound; phức hợp
+compressed sensing;
+computational convenience;
+concentration of measure;  tập trung của độ đo
+conditional expectation;
+conditional independence; độc lập có điều kiện
+conditional probability;
+conditioning on data;
+conjugacy;
+conjugate duality;  đối ngẫu liên hợp
+conjugate prior;
+consistency; tính nhất quán
+consistent;
+convergence;
+convex analysis;
+copula model;
+covariance function;
+covariates;
+covering number;
+Cox regression model; mô hình hồi quy Cox
+curve data;
+curved exponential family;
+data; dữ liệu
+decision function;  hàm số quyết định
+decision tree; cây quyết định
+deep belief net;
+delay time;
+density; hàm mật độ
+detailed balance;
+định nghĩa trên quá trình thực nghiệm;
+directed graphical model; mô hình đồ thị có hướng
+Dirichlet process;
+discriminative model; mô hình phân biệt
+distributed algorithm;
+distribution free; mô hình tự do
+distribution function; hàm phân bố
+efficiency; hiệu quả
+empirical Bayes;
+empirical data;
+empirical process; quá trình thực nghiệm 
+empirical risk; rủi ro thực nghiệm
+ensemble; hợp xướng
+ERM;
+estimate; ước lượng
+estimation;
+estimation error; sai số ước lượng
+estimator;
+exchangeability; tính hoán chuyển được
+expectation;
+experimental design;
+experiment design;
+exponential family; họ mũ
+exponential loss; Hàm thiệt mũ
+false positive;
+features; các đặc tính
+feature extraction; chọn lọc đặc tính
+filtering;
+Fourier transform;
+free probability;
+frequentist expectation; Kỳ vọng tần suất
+frequentist; suy diễn tần số
+functional data;
+functionals; phiếm hàm
+Gaussian processes;
+generalization; phổ quát
+generalized linear model; tuyến tính tổng quát
+generative model; mô hình sinh mẫu
+global search;
+graphical model;
+graphical model; mô hình xác suất đồ thị 
+heat bath method;
+heat map;
+heteroscedasticity;
+heuristic search;
+hidden Markov; Markov ẩn
+hidden markov model;
+hidden variables;
+hierarchical clustering;
+hierarchical model;
+hitting time; thời điểm chạm
+hypothesis test;
+hypothesis testing;
+importance sampling;
+independence; độc lập
+independent increment; gia tăng độc lập
+Indian buffet process; quá trình búp phê Ấn độ 
+infinitely divisible; khả phân vô hạn
+information geometry; hình học thông tin
+information theory;
+intensity measure;
+ít nhất là với nhãn quan tần suất;
+Kalman filter; lọc Kalman
+Kalman smoothing; mài trơn Kalman
+kernel method;
+learner;
+learn; học
+learning algorithm;
+learning machine;
+learning theory;
+least square; bình phương cực tiểu
+Levy measure;
+likelihood;
+likelihood principle; Nguyên tắc khả năng
+linear regression;
+local search;
+logistic loss;
+logistic regression; hổi quy logit
+loss function;
+machine;
+marginal probability;
+Markov process;
+Markov random fields;
+maximization algorithm;
+maximum likelihood;
+mean;
+mean function;
+mean parameterization; tham số hóa trung bình
+measurable functions;
+measure theory;
+minimum risk criterion; giá trị rủi ro tối thiểu
+mixing time;
+mixture model;
+modality;
+model choice;
+model complexity;  tính phức tạp mô hình
+model identifiability;
+model selection;
+mode; mốt
+nested design;
+neural network; mạng nơ ron
+nonparametric;
+nonparametric Bayesian model;
+nonparametric model; mô hình phi tham số
+normalizing constant;
+null hypothesis;
+online analysis;
+order statistics;
+orthornomal transformation; biến đổi trực chuẩn
+output; đầu ra
+parameter estimation; ước lượng về tham số
+parameter identifiability;
+parameterization;
+parameter; tham số
+parametric model; mô hình tham số
+partial exchangeability; hoán chuyển từng phần
+particle filtering;
+partition function;
+passing algorithm;
+penalization;
+polytree;
+posterior consistency; nhất quán hậu nghiệm
+posterior consistency; Tính nhất quán hậu nghiệm
+posterior distribution;
+posterior inference;  suy diễn hậu nghiệm
+power;
+prediction; dự báo
+prior distribution;
+prior knowledge; tiên nghiệm
+probabilistic graphical model; Mô hình xác suất đồ thị 
+probabilistic inference; suy diễn xác suất
+probablist;
+proposal distribution;
+quantization;
+random measures; độ đo ngẫu nhiên
+randomness; ngẫu nhiên
+random variables;
+random walk; đi bộ ngẫu nhiên
+regression;
+regression analysis; Bài toán hồi quy
+regularization;
+reproducing kernel Hilbert space; nhân tự sinh
+restart;
+risk;
+ROC;
+saddle point;
+sample path;
+sample size;
+sampling;
+semiparametric model; mô hình bán tham số
+sensitivity analysis;
+sequential analysis;
+sequential change point analysis;
+sequential data;
+shrinkage;
+significance;
+simulated annealing;
+Sobolev class; lớp Sobolev
+sparsity;
+specification;
+square loss; Hàm thiệt bình phương
+stability analysis;
+stable distribution; phân bố ổn định
+stationary distribution;
+statistical inference; suy diễn thống kê
+statistical model; Mô hình thống kê
+stochastic processes; quá trình ngẫu nhiên
+stopping time; thời điểm dừng
+strong law;
+subjective Bayes; Bayes chủ quan
+subjective belief; niềm tin chủ quan 
+sufficient statistics;  thống kê đầy đủ
+superefficiency;
+symmetrization;
+transition probability kernel; hạch xác suất chuyển dịch
+undirected graphical model; mô hình đồ thị vô hướng
+uniform distribution;
+validation;
+value;
+variational inference;
+VC dimension; số chiều VC
