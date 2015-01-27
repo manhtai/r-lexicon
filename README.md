@@ -1,6 +1,6 @@
 Danh sách đang trong quá trình hoàn thiện.
 
-- Danh sách từ: [lexicon.txt](https://github.com/hochanh/lexicon/blob/master/lexicon.txt)
+- Danh sách từ: [lexicon.txt](https://github.com/statvn/lexicon/blob/master/lexicon.txt)
 
 - Xem trên web:
 
@@ -10,7 +10,7 @@ https://manhtai.shinyapps.io/lexicon/
 
 ```r
 library(shiny)
-runGitHub("hochanh/lexicon")
+runGitHub("statvn/lexicon")
 # runApp() nếu đã tải về
 ```
 

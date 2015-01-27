@@ -1,3 +1,7 @@
+partial least squares (PLS);
+coefficient of determination (R^2); hệ số xác định (tỉ lệ thông tin dữ liệu được giải thích bởi mô hình)
+root mean squared error (RMSE); sai số khai phương (??) trung bình
+mean squared error (MSE=RMSE^2); sai số bình phương trung bình
 tradeoff; đánh đổi
 bias-variance tradeoff; đánh đổi giữa độ chệch và độ bất định
 replacement; có hoàn lại
