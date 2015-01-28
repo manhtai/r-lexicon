@@ -1,3 +1,4 @@
+quantile; phân vị; xác suất P(x <= c) sẽ thuộc đoạn từ 0 đến 1, chia khoảng này làm n phần để tìm c, lúc đó mỗi điểm chia là một điểm phân vị, còn c là giá trị tương ứng với điểm phân vị đó, ta thường gặp khoảng tứ phân vị với các điểm phân vị lần lượt là 25%, 50% và 75%
 null hypothesis; giả thuyết đảo
 alternative hypothesis; giả thuyết phụ
 hypothesis test; kiểm định giả thiết
@@ -111,7 +112,6 @@ polynomial regression; hồi qui đa thức
 probability; xác suất
 probability density distribution; hàm mật độ xác suất 
 p-value; trị số P
-quantile; hàm định bậc
 random effects; ảnh hưởng ngẫu nhiên
 random variable; biến ngẫu nhiên
 relative risk; tỉ số nguy cơ tương đối
