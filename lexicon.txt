@@ -1,11 +1,13 @@
-quantile; phân vị; xác suất P(x <= c) sẽ thuộc đoạn từ 0 đến 1, chia khoảng này làm n phần để tìm c, lúc đó mỗi điểm chia là một điểm phân vị, còn c là giá trị tương ứng với điểm phân vị đó, ta thường gặp khoảng tứ phân vị với các điểm phân vị lần lượt là 25%, 50% và 75%
+ensemble method; phương pháp quần thể; phương pháp kết hợp nhiều mô hình cùng loại vào một mô hình tổng hợp để tăng hiệu suất
+quantile; phân vị; xác suất P(x <= c) sẽ thuộc đoạn từ 0 đến 1, chia khoảng này làm n phần để tìm c tương ứng, lúc đó mỗi c tìm được là một điểm phân vị, ta thường gặp khoảng tứ phân vị với các điểm chia lần lượt là 25%, 50% và 75%
 null hypothesis; giả thuyết đảo
 alternative hypothesis; giả thuyết phụ
 hypothesis test; kiểm định giả thiết
 partial least squares (PLS);
 coefficient of determination (R^2); hệ số xác định; tỉ lệ thông tin (phương sai của các biến phụ thuộc) được giải thích bởi mô hình, công thức tính R^2 = 1 - RSS/TSS, R^2 càng lớn chứng tỏ mô hình càng tốt, giá trị được xem lớn của R^2 tùy vào từng lĩnh vực
-residual sum of squares (RSS); tổng bình phương phần dư
-residual standard error (RSE); độ lệch chuẩn phần dư; RSE = sqrt(RSS/(n-2))
+sum of squares errors (SSE); tổng sai số bình phương; giống như RSS
+residual sum of squares (RSS); tổng sai số bình phương; giống SSE
+residual standard error (RSE); độ lệch chuẩn sai số; RSE = sqrt(RSS/(n-2))
 total sum of squares (TSS); phương sai của các biến phụ thuộc
 root mean squared error (RMSE); sai số khai phương (??) trung bình
 mean squared error (MSE); sai số bình phương trung bình; MSE=RMSE^2
@@ -209,7 +211,6 @@ empirical Bayes;
 empirical data;
 empirical process; quá trình thực nghiệm 
 empirical risk; rủi ro thực nghiệm
-ensemble; hợp xướng
 ERM;
 estimate; ước lượng
 estimation;
