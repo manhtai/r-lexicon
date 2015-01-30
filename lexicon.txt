@@ -1,3 +1,6 @@
+loss function; hàm tổn thất; loại hàm dùng để đo lường sai số của mô hình, chẳng hạn sai số bình phương, sai số bình phương trung bình
+interpretability; có thể diễn giải; một tính chất của mô hình về khả năng thấy được mối quan hệ giữa các biến, thường có sự đánh đổi với flexibility
+flexibility; mềm dẻo, linh hoạt; một tính chất của mô hình về độ khớp dữ liệu, thường có sự đánh đổi với interpretability
 ensemble method; phương pháp quần thể; phương pháp kết hợp nhiều mô hình cùng loại vào một mô hình tổng hợp để tăng hiệu suất
 quantile; phân vị; xác suất P(x <= c) sẽ thuộc đoạn từ 0 đến 1, chia khoảng này làm n phần để tìm c tương ứng, lúc đó mỗi c tìm được là một điểm phân vị, ta thường gặp khoảng tứ phân vị với các điểm chia lần lượt là 25%, 50% và 75%
 null hypothesis; giả thuyết đảo
@@ -273,7 +276,6 @@ linear regression;
 local search;
 logistic loss;
 logistic regression; hổi quy logit
-loss function;
 machine;
 marginal probability;
 Markov process;
