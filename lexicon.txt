@@ -1,3 +1,6 @@
+confusion matrix; ma trận hỗn loạn (??); một bảng tra chéo giữa lớp thực tế của mẫu và lớp được dự báo của mẫu đó
+visualization; trực quan hóa; phương pháp biểu thị dữ liệu lên đồ thị
+classification; phân loại, phân lớp
 loss function; hàm tổn thất; loại hàm dùng để đo lường sai số của mô hình, chẳng hạn sai số bình phương, sai số bình phương trung bình
 interpretability; có thể diễn giải; một tính chất của mô hình về khả năng thấy được mối quan hệ giữa các biến, thường có sự đánh đổi với flexibility
 flexibility; mềm dẻo, linh hoạt; một tính chất của mô hình về độ khớp dữ liệu, thường có sự đánh đổi với interpretability
@@ -166,7 +169,6 @@ Central limit theorem; giới hạn trung tâm
 chaining method;
 characteristic function; hàm tính cách
 Chinese restaurant process; nhà hàng Tàu
-classification;
 classifier; hàm phân loại
 climbing;
 clustering;
