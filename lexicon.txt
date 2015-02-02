@@ -1,3 +1,6 @@
+linear discriminant analysis; phân tích biệt thức tuyến tính
+discriminant analysis; phân tích biệt thức; kĩ thuật dùng biệt thức toán học để phân loại mẫu
+discriminant; biệt thức; một ví dụ về biệt thức là delta và delta phẩy dùng trong giải phương trình bậc 2
 confusion matrix; ma trận hỗn loạn (??); một bảng tra chéo giữa lớp thực tế của mẫu và lớp được dự báo của mẫu đó
 visualization; trực quan hóa; phương pháp biểu thị dữ liệu lên đồ thị
 classification; phân loại, phân lớp
