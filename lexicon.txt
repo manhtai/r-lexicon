@@ -205,7 +205,8 @@ decision function;  hàm số quyết định
 decision tree; cây quyết định
 deep belief net;
 delay time;
-density; hàm mật độ
+density; mật độ
+density function; hàm mật độ
 detailed balance;
 định nghĩa trên quá trình thực nghiệm;
 directed graphical model; mô hình đồ thị có hướng
