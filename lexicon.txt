@@ -1,3 +1,10 @@
+pseudo random; ngẫu nhiên giả; mẫu ngẫu nhiên được tạo ra từ phân phối chọn trước
+permutation; hoán vị
+type II error; sai sót loại II; chấp nhận giả thuyết chính khi giả thuyết đảo đúng, còn gọi là false negative
+type I error; sai sót loại I; bác bỏ giả thuyết chính khi giả thuyết chính đúng, còn gọi là false positive
+sensitivity; độ nhạy; bằng 1 - beta = 1 - tỉ lệ sai sót loại II
+power; độ nhạy; còn gọi là sensitivity
+specificity; độ tin cậy, độ đặc hiệu; bằng 1 - alpha = 1 - tỉ lệ sai sót loại I
 linear discriminant analysis; phân tích biệt thức tuyến tính
 discriminant analysis; phân tích biệt thức; kĩ thuật dùng biệt thức toán học để phân loại mẫu
 discriminant; biệt thức; một ví dụ về biệt thức là delta và delta phẩy dùng trong giải phương trình bậc 2
@@ -9,7 +16,7 @@ interpretability; có thể diễn giải; một tính chất của mô hình v�
 flexibility; mềm dẻo, linh hoạt; một tính chất của mô hình về độ khớp dữ liệu, thường có sự đánh đổi với interpretability
 ensemble method; phương pháp quần thể; phương pháp kết hợp nhiều mô hình cùng loại vào một mô hình tổng hợp để tăng hiệu suất
 quantile; phân vị; xác suất P(x <= c) sẽ thuộc đoạn từ 0 đến 1, chia khoảng này làm n phần để tìm c tương ứng, lúc đó mỗi c tìm được là một điểm phân vị, ta thường gặp khoảng tứ phân vị với các điểm chia lần lượt là 25%, 50% và 75%
-null hypothesis; giả thuyết đảo
+null hypothesis; giả thuyết đảo, giả thuyết chính
 alternative hypothesis; giả thuyết phụ
 hypothesis test; kiểm định giả thiết
 partial least squares (PLS);
@@ -116,7 +123,6 @@ multiple linear regression analysis; phân tích hồi qui tuyến tính đa bi�
 normal distribution; phân phối chuẩn
 object; đối tượng
 parameter; thông số
-permutation; hoán vị
 pie chart; biểu đồ hình tròn
 poisson distribution; phân phối Poisson
 polynomial regression; hồi qui đa thức
