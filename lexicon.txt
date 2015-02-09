@@ -1,7 +1,10 @@
 pseudo random; ngẫu nhiên giả; mẫu ngẫu nhiên được tạo ra từ phân phối chọn trước
 permutation; hoán vị
-type II error; sai sót loại II; chấp nhận giả thuyết chính khi giả thuyết đảo đúng, còn gọi là false negative
-type I error; sai sót loại I; bác bỏ giả thuyết chính khi giả thuyết chính đúng, còn gọi là false positive
+false negative rate; FP/P; Type II error, 1 - sensitivity
+false positive rate; FP/N; Type I error, 1 - specificity
+true positive rate; TP/P; 1 - Type II error, power, sensitivity, recall
+type II error; sai sót loại II; chấp nhận giả thuyết chính khi giả thuyết đảo đúng, còn gọi là false negative rate
+type I error; sai sót loại I; bác bỏ giả thuyết chính khi giả thuyết chính đúng, còn gọi là false positive rate
 sensitivity; độ nhạy; bằng 1 - beta = 1 - tỉ lệ sai sót loại II
 power; độ nhạy; còn gọi là sensitivity
 specificity; độ tin cậy, độ đặc hiệu; bằng 1 - alpha = 1 - tỉ lệ sai sót loại I
