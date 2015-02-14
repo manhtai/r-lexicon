@@ -1,3 +1,4 @@
+QED; điều đã được chứng minh; tiếng La-tinh quot erat demonstrandum
 pseudo random; ngẫu nhiên giả; mẫu ngẫu nhiên được tạo ra từ phân phối chọn trước
 permutation; hoán vị
 false negative rate; FP/P; Type II error, 1 - sensitivity
